@@ -1,6 +1,6 @@
-![alt text](https://github.com/codescheme/svg-icons-css/raw/master/img/511.png "icons")
+![alt text](https://github.com/codescheme/svg-icons-css/blob/master/img/lss511.png?raw=true "icons")
 
-![alt text](https://github.com/codescheme/svg-icons-css/raw/master/img/512.png "css-controlled icon fills")
+![alt text](https://github.com/codescheme/svg-icons-css/blob/master/img/lss512.png?raw=true "css-controlled icon fills")
 
 # CSS-controlled Polychrome SVG Icons
 
